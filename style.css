@@ -1,0 +1,12 @@
+#bannerContainer{
+   height: 50vh;
+}
+
+#o-h{
+   overflow: auto;
+}
+
+.col-5{
+   background-image: url('./tehami_new.jpeg');
+   background-size: cover;
+}
